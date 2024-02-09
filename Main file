@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Welcome to the restraunt</title>
+        <link href="style.css" rel="stylesheet" type="text/css">
+
+    </head>
+    <body>
+        <div class="box">
+            <ul type="none">
+                <pre><li><a href="menu.html">Menu    </a></li></pre>
+                <pre><li><a href="online_order.html">Online Order    </a></li></pre>
+                <pre><li><a href="reviews.html">Reviews    </a></li></pre>
+                <pre><li><a href="contact.html">Contact    </a></li></pre>
+                <pre><li><a href="feedback.html">Feedback    </a></li></pre>
+                <pre><li><a href="about.html">About us    </a></li></pre>
+            <ul>
+        </div>
+        <div class="md">
+            <h1>WELCOME :)</h1>
+        <h4>if you are looking for the most delicious food in the city then you are on the right site.
+            we provide both vegitarian food and non-vegitarian food.
+            once again most welcome.. 
+            don't have a good day. have a great day</h4>
+
+        <h2><a href="contact.html">RESERVATION</a></h2>
+        <div class="opt">
+            <form action="" method="post">
+            <a href="menu.html"><input type="button" value="Start Now"></a>
+            </form>
+        </div>
+        </div>
+        <h1 style="color:rgb(224, 139, 64); text-align: center;">Enjoy Your Meal :)</h1>
+    </body>
+</html>
